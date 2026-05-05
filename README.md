@@ -18,7 +18,8 @@ Markdown のソースは `main` ブランチに置き、Zensical で HTML にビ
 ├── docs/
 │   ├── index.md
 │   ├── onboarding.md
-│   └── operations.md
+│   ├── operations.md
+│   └── pull-request.md
 ├── .gitignore
 ├── README.md
 └── zensical.toml

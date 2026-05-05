@@ -25,3 +25,4 @@ Zensical and GitHub Pages.
 5. Confirm the production site is updated.
 
 See [Operations](operations.md) for common maintenance notes.
+See [Pull Request Preview](pull-request.md) for PR-specific preview workflow details.
