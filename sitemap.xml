@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://example.github.io/pages_demo/</loc>
+        <loc>https://inoryu-os.github.io/pages_demo/</loc>
       </url>
       <url>
-        <loc>https://example.github.io/pages_demo/onboarding/</loc>
+        <loc>https://inoryu-os.github.io/pages_demo/onboarding/</loc>
       </url>
       <url>
-        <loc>https://example.github.io/pages_demo/operations/</loc>
+        <loc>https://inoryu-os.github.io/pages_demo/operations/</loc>
       </url>
 </urlset>
