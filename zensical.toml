@@ -1,0 +1,9 @@
+[project]
+site_name = "Team Knowledge Demo"
+site_description = "GitHub Pages and Zensical demo for team knowledge documents"
+site_author = "Knowledge Team"
+site_url = "https://example.github.io/pages_demo/"
+docs_dir = "docs"
+site_dir = "site"
+use_directory_urls = true
+copyright = "&copy; Knowledge Team"
