@@ -1,5 +1,8 @@
 # Team Knowledge Demo
 
+## URL
+https://github.com/inoryu-os/pages_demo.git
+
 Zensical と GitHub Pages で、チーム向けナレッジドキュメントを公開するためのデモリポジトリです。
 
 Markdown のソースは `main` ブランチに置き、Zensical で HTML にビルドした成果物を `gh-pages` ブランチへデプロイします。Pull Request ごとに `/pr-<PR番号>/` のプレビューURLも生成します。
